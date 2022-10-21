@@ -1,37 +1,47 @@
-Question: [https://leetcode.com/problems/roman-to-integer/]()
+<h1>Question: https://leetcode.com/problems/roman-to-integer</h1>
 
-Data structures used: Dictionary
+**Data structures used**: Dictionary
 
-Time complexity: O(n)
+**Time complexity**: O(n)
 
-Space complexity: O()
+**Space complexity**: O()
 
-Function:
-- Return the numeric decimal form: <code>num</code>, of the inputted roman numerals: <code>s</code>.
+<h3>Function</h3>
+Return the numeric decimal form: <code>num</code>, of the inputted roman numerals: <code>s</code>.
 
-Parameters:
-- s: a string in the form of roman numeral's
 
-Variables:
-- roman_map: a dictionary that maps each numeral to it's corresponding number
+**Parameters:**
+- <code>s</code>: a string in the form of roman numeral's
 
-- n: a variable to account for the n items (length of s)
+**Variables:**
+- <code>roman_map</code>: a dictionary that maps each numeral to it's corresponding number
 
-Return value:
-- num: an accumulator variable used to compute the sum of the inputted numerals
+- <code>n</code>: a variable to account for the n items (length of <code>s</code>)
 
-Explanation:
-We iterate over all characters in the string, s, and we check
-if the current index, i, is the last one. This is to constrain the IndexError on the last iteration as we try to access i + 1 in the future.
+**Return value:**
+- <code>num</code>: an accumulator variable used to compute the sum of the inputted numerals
+
+**Explanation:**
+We iterate over all characters in the string, <code>s</code>, and we check
+if the current index, <code>i</code>, is the last one. This is to constrain the <code>IndexError</code> on the last iteration as we try to access <code>i + 1</code> in the future.
 
 Then we check whether the current numeral's value
 is less than that of the next one.
 
 1) if not, it increments by the current numeral's value through mapping with our dictionary.
 
-2) if so, this signifies any of the given patterns (IV, IX, CM etc.) as shown in the description. num would decrement by the current numeral's (i) value through mapping. Then it indexes to the next character (i + 1) and behave like case 1.
+2) if so, this signifies any of the given patterns (IV, IX, CM etc.) as shown in the description. num would decrement by the current numeral's (<code>i</code>) value through mapping. Then it indexes to the next character (<code>i + 1</code>) and behave like case 1.
 
-  i.e "IX", when i = 0: num -= 1, when i = 1: num += 10
-      num = 9
+  i.e "IX", when i = 0: <code>num</code> -= 1, when i = 1: <code>num</code> += 10
+      <code>num</code> = 9
 
-Hence, num accurately represents the net values of such patterns.
+Hence, <code>num</code> accurately represents the net values of such patterns.
+
+**Example Test Cases:**
+
+
+| Input  | Output |
+| ------------- | ------------- |
+| <code>III</code>  | 3  |
+| <code>LVIII</code>  | 58  |
+| <code>MCMXCIV</code> | 1994 |
