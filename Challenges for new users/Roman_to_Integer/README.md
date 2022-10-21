@@ -2,9 +2,9 @@
 
 **Data structures used**: Dictionary
 
-**Time complexity**: O(n)
+**Time complexity**: O(n) (presuming no limit on string length, otherwise constant)
 
-**Space complexity**: O()
+**Space complexity**: O(1) (only 7 items)
 
 <h3>Function</h3>
 Return the numeric decimal form: <code>num</code>, of the inputted roman numerals: <code>s</code>.
@@ -32,8 +32,8 @@ is less than that of the next one.
 
 2) if so, this signifies any of the given patterns (IV, IX, CM etc.) as shown in the description. num would decrement by the current numeral's (<code>i</code>) value through mapping. Then it indexes to the next character (<code>i + 1</code>) and behave like case 1.
 
-  i.e "IX", when i = 0: <code>num</code> -= 1, when i = 1: <code>num</code> += 10
-      <code>num</code> = 9
+  i.e <code>"IX"</code>, when <code>i = 0</code>: <code>num -= 1 </code>, when <code>i = 1</code>: <code>num += 10</code>
+      <code>num = 9</code>
 
 Hence, <code>num</code> accurately represents the net values of such patterns.
 
