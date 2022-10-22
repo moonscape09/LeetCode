@@ -1,37 +1,63 @@
-Question: [https://leetcode.com/problems/roman-to-integer/]()
+<h1>Question: https://leetcode.com/problems/roman-to-integer</h1>
 
-Data structures used: Dictionary
+```
+  class Solution:
+    def romanToInt(self, s: str) -> int:
+        roman_map = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
+        num = 0
+        n = len(s)
+        for i in range(n):
+            if i != n-1 and roman_map[s[i]] < roman_map[s[i+1]]:
+                num -= roman_map[s[i]]
+            else:
+                num += roman_map[s[i]]
 
-Time complexity: O(n)
 
-Space complexity: O()
+        return num
+```
+  
+**Data structures used**: Dictionary
 
-Function:
-- Return the numeric decimal form: <code>num</code>, of the inputted roman numerals: <code>s</code>.
+**Time complexity**: O(n) (presuming no limit on string length, otherwise constant)
 
-Parameters:
-- s: a string in the form of roman numeral's
+**Space complexity**: O(1) (only 7 items)
 
-Variables:
-- roman_map: a dictionary that maps each numeral to it's corresponding number
+<h3>Function</h3>
+Return the numeric decimal form: <code>num</code>, of the inputted roman numerals: <code>s</code>.
 
-- n: a variable to account for the n items (length of s)
 
-Return value:
-- num: an accumulator variable used to compute the sum of the inputted numerals
+**Parameters:**
+- <code>s</code>: a string in the form of roman numeral's
 
-Explanation:
-We iterate over all characters in the string, s, and we check
-if the current index, i, is the last one. This is to constrain the IndexError on the last iteration as we try to access i + 1 in the future.
+**Variables:**
+- <code>roman_map</code>: a dictionary that maps each numeral to it's corresponding number
+
+- <code>n</code>: a variable to account for the n items (length of <code>s</code>)
+
+**Return value:**
+- <code>num</code>: an accumulator variable used to compute the sum of the inputted numerals
+
+**Explanation:**
+We iterate over all characters in the string, <code>s</code>, and we check
+if the current index, <code>i</code>, is the last one. This is to constrain the <code>IndexError</code> on the last iteration as we try to access <code>i + 1</code> in the future.
 
 Then we check whether the current numeral's value
 is less than that of the next one.
 
 1) if not, it increments by the current numeral's value through mapping with our dictionary.
 
-2) if so, this signifies any of the given patterns (IV, IX, CM etc.) as shown in the description. num would decrement by the current numeral's (i) value through mapping. Then it indexes to the next character (i + 1) and behave like case 1.
+2) if so, this signifies any of the given patterns (IV, IX, CM etc.) as shown in the description. num would decrement by the current numeral's (<code>i</code>) value through mapping. Then it indexes to the next character (<code>i + 1</code>) and behave like case 1.
 
-  i.e "IX", when i = 0: num -= 1, when i = 1: num += 10
-      num = 9
+  i.e <code>"IX"</code>, when <code>i = 0</code>: <code>num -= 1 </code>, when <code>i = 1</code>: <code>num += 10</code>
+      <code>num = 9</code>
 
-Hence, num accurately represents the net values of such patterns.
+Hence, <code>num</code> accurately represents the net values of such patterns.
+
+**Example Test Cases:**
+
+
+| Input  | Output |
+| ------------- | ------------- |
+| <code>III</code>  | 3  |
+| <code>LVIII</code>  | 58  |
+| <code>MCMXCIV</code> | 1994 |
