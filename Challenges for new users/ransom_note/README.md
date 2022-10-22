@@ -7,7 +7,7 @@ class Solution:
         magazine_counter = Counter(magazine)
         ransomNote_counter = Counter(ransomNote)
         for i in ransomNote_counter:
-            if magazine_counter[i] >= ransomNote_counter[i]:
+            if magazine_counter[i] < ransomNote_counter[i]:
                 return True
             return False
 ```
@@ -35,9 +35,9 @@ Return <code>True</code>, if <code>ransomNote</code> can be constructed using so
 - True or False
 
 **Explanation:**
-We create a frequency dictionary for the letters in both strings. We then iterate over the <code>ransomNote</code>'s dictionary to see if 1) the current letter is also in <code>magazine</code> 2) and that there is less or the same amount of the current letter in <code>ransomNote</code> than <code>magazine</code>.
+We create a frequency dictionary for the letters in both strings. We then iterate over the <code>ransomNote</code>'s dictionary to see if there is less of the current letter in <code>magazine</code> than <code>ransomNote</code>.
 
-If the condition is satisfied, the function returns True. Otherwise it returns False.
+If the condition is satisfied, the function returns False. Otherwise it returns True (after the loop signifying every check in the loop was valid).
 
 **Example Test Cases:**
 
