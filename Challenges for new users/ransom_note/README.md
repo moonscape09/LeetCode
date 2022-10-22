@@ -35,7 +35,7 @@ Return <code>True</code>, if <code>ransomNote</code> can be constructed using so
 - True or False
 
 **Explanation:**
-We create a frequency dictionary for the letters in both strings. We then iterate over the <code>ransomNote</code>'s dictionary to see if 1) the current letter is also in <magazine> 2) and that there is less or the same amount of the current letter in <code>ransomNote</code> than <code>magazine</code>.
+We create a frequency dictionary for the letters in both strings. We then iterate over the <code>ransomNote</code>'s dictionary to see if 1) the current letter is also in <code>magazine</code> 2) and that there is less or the same amount of the current letter in <code>ransomNote</code> than <code>magazine</code>.
 
 If the condition is satisfied, the function returns True. Otherwise it returns False.
 
