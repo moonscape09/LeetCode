@@ -1,4 +1,4 @@
-<h1>Question:https://leetcode.com/problems/ransom-note/</h1>
+<h1>Question: https://leetcode.com/problems/ransom-note/</h1>
 
 ```
 class Solution:
@@ -47,3 +47,7 @@ If the condition is satisfied, the function returns False. Otherwise it returns 
 | <code>ransomNote = "a", magazine = "b"</code>  | False  |
 | <code>ransomNote = "aa", magazine = "ab"</code>  | False  |
 | <code>ransomNote = "aa", magazine = "aab"</code> | True |
+
+**Statistics: ** Beat 33.33% of solutions in runtime and beat 100% of solutions in memory usage :).
+
+<img width="369" alt="image" src="https://github.com/moonscape09/LeetCode/assets/101025804/34a3050c-fe8d-46fe-a439-e8d7a1c8d7c9">
