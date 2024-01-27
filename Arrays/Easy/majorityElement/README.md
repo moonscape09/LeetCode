@@ -48,3 +48,7 @@ We use the Boyer-Moote voting algorithm. Two important variables are needed here
 | <code>nums = [1,1,2,2,3,3,4,4,4,4,4,4,4]</code>  | 4 |
 | <code>ransomNote = "[1,1,1,1]"</code>  | 1 |
 | <code>ransomNote = "[10]"</code> | 10 |
+
+**Statistics:** Beat 96% of solutions in runtime and 71% of solutions in memory usage
+
+<img width="372" alt="image" src="https://github.com/moonscape09/LeetCode/assets/101025804/902a03f0-4e8b-43db-afcc-1575af3e2cc1">
