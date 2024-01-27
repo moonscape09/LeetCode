@@ -61,3 +61,9 @@ Hence, <code>num</code> accurately represents the net values of such patterns.
 | <code>III</code>  | 3  |
 | <code>LVIII</code>  | 58  |
 | <code>MCMXCIV</code> | 1994 |
+
+
+**Statistics: ** Beat 12% of solutions in runtime and 100% of solutions in memory usage.
+
+
+<img width="367" alt="image" src="https://github.com/moonscape09/LeetCode/assets/101025804/7a004445-e517-441f-8f63-03a859b3f8c4">
