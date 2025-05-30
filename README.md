@@ -1,3 +1,3 @@
-This repository reflects my [LeetCode](https://leetcode.com/moonscape09/) progress broken down into different problem lists provided by LeetCode itself.
+This repository reflects my [LeetCode](https://leetcode.com/moonscape09/) journal, used for self-reflection on progress.
 
-There is a <code>README.md</code> documentation file providing justification of each solution I write in Python3 or C++ (i.e data structures used, solution walkthrough, complexity etc.) to portray my understanding and documenting style while interacting with Git and GitHub.
+There is a <code>README.md</code> with reasoning of each solution I write in Python3 or C++ (i.e data structures used, solution walkthrough, complexity etc.) to showcase my understanding of DSA.

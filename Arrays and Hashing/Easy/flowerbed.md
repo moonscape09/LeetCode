@@ -45,3 +45,6 @@ Ultimately at the end of the pass, if `n > 0`, this means we still have some flo
 | <code>ransomNote = "[1,0,0,0,0,1,0,0,0]"</code> | false |
 
 **Statistics:** Beats 100% of solutions in runtime and 97.35% of solutions in memory usage
+
+![image](https://github.com/user-attachments/assets/4489c38e-5495-44e7-929d-5439b9f58b22)
+
