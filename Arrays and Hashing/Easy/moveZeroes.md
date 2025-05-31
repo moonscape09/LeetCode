@@ -66,5 +66,6 @@ After the swap, both pointers are incremented to look for other zeroes and non-z
 
 **Statistics:** Beats 100% of solutions in runtime and 49.62% of solutions in memory usage
 
+<img width="692" alt="image" src="https://github.com/user-attachments/assets/a29f0d98-6d90-4ecf-90a8-e2fac1e4ff6b" />
 
 
