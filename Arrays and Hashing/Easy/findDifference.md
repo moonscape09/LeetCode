@@ -58,3 +58,5 @@ Afterwards, both arrays are iterated seperately, checking for whether it's eleme
 | <code>nums1 = [-68,-80,-19,-94,82,21,-43], nums2 = [-63]</code> | [[-19,82,-68,21,-43,-94,-80],[-63]] |
 
 **Statistics:** Beats 67.07% of solutions in runtime and 11.25% of solutions in memory usage
+
+<img width="691" alt="image" src="https://github.com/user-attachments/assets/00965a48-a4ce-4a84-8724-519e11505166" />
