@@ -43,3 +43,6 @@ If `s` is a subsequence of `t`, then `indices` must have just one more element t
 | <code>s = "aza" t = "abzba"</code> | true |
 
 **Statistics:** Beats 100% of solutions in runtime and 31.51% of solutions in memory usage
+![image](https://github.com/user-attachments/assets/8a63c8d8-8909-46d9-af1d-f465ac405353)
+
+
