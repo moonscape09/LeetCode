@@ -45,3 +45,7 @@ Otherwise, after the iteration, we return true.
 | <code>arr = [-3,0,1,-3,1,1,1,-3,10,0]</code> | true |
 
 **Statistics:** Beats 100% of solutions in runtime and 78.95% of solutions in memory usage
+
+<img width="693" alt="image" src="https://github.com/user-attachments/assets/1eed2a25-efe9-4262-8a19-0b4d01c9bb35" />
+
+
