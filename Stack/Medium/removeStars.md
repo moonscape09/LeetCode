@@ -48,3 +48,5 @@ Afterwards, a string is populated from popping from the stack, until it is empty
 | <code>s = "erase*****"</code>  | "" |
 
 **Statistics:** Beats 88.04% of solutions in runtime and 35.46% of solutions in memory usage
+
+<img width="704" alt="image" src="https://github.com/user-attachments/assets/4e0c82d1-8e57-48f1-8dee-1ba47da80a7a" />
