@@ -38,3 +38,7 @@ A simple binary search solution. Looks for the target if it exists using a basic
 | <code>nums = [1,3,5,6], target = 7</code>  | 4 |
 
 **Statistics:** Beats 100% of solutions in runtime and 76.50% of solutions in memory usage
+
+![image](https://github.com/user-attachments/assets/bdd4e64d-8892-4abc-a3f4-af2549465fee)
+
+
