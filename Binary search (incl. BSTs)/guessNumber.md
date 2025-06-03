@@ -55,3 +55,7 @@ A simple binary search solution. If the `guess` API returns 0, the guessed numbe
 | <code>n = 2, pick = 1</code>  | 1 |
 
 **Statistics:** Beats 100% of solutions in runtime and 71.64% of solutions in memory usage
+
+![image](https://github.com/user-attachments/assets/cc972659-8e16-4329-b2de-9b0efdd2c9c3)
+
+
