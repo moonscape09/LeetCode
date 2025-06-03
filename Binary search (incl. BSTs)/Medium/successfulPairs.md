@@ -52,3 +52,5 @@ A binary search algorithm, that sorts the potions first. For every spell, the bi
 
 **Statistics:** Beats 66.93% of solutions in runtime and 24.64% of solutions in memory usage
 
+![image](https://github.com/user-attachments/assets/5cc12a0a-15bf-40b1-8dc9-0159b4813d78)
+
