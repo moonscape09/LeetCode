@@ -39,6 +39,7 @@ A simple binary search solution. Looks for the target if it exists using a basic
 
 **Statistics:** Beats 100% of solutions in runtime and 97.90% of solutions in memory usage
 
-![image](https://github.com/user-attachments/assets/bdd4e64d-8892-4abc-a3f4-af2549465fee)
+![image](https://github.com/user-attachments/assets/e567348c-09ee-4d69-87fc-34843dc6cf2f)
+
 
 
