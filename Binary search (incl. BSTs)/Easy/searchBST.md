@@ -54,3 +54,5 @@ If the target `val` is found, that is if the `curr` node's value is equal to `va
 | <code>root = [4,2,7,1,3] val = 5</code>  | [] |
 
 **Statistics:** Beats 100% of solutions in runtime and 61.19% of solutions in memory usage
+
+![image](https://github.com/user-attachments/assets/03ba013e-e4a6-473b-9dc1-47bbca16d096)
