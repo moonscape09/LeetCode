@@ -73,3 +73,7 @@ Finally, `maxSum` is returned.
 | <code>head = [1,100000] </code>  | 100001 |
 
 **Statistics:** Beats 100% of solutions in runtime and 6.02% of solutions in memory usage
+
+![image](https://github.com/user-attachments/assets/9556bb13-1bcc-4887-b507-a62f46a0377b)
+
+
