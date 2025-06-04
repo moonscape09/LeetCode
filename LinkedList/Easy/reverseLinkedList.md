@@ -57,3 +57,7 @@ Finally, at the end of the traversal, the `prev` pointer will point to the head 
 
 **Statistics:** Beats 100% of solutions in runtime and 70.40% of solutions in memory usage
 
+![image](https://github.com/user-attachments/assets/36a3c5c0-06ff-4e05-8f9a-68904df0e03a)
+
+
+
