@@ -59,3 +59,5 @@ Now that we have gotten the previous node of the middle node (the one we want to
 
 **Statistics:** Beats 100% of solutions in runtime and 83.85% of solutions in memory usage
 
+![image](https://github.com/user-attachments/assets/abef3b3a-f177-42e5-856d-844f907cc317)
+
