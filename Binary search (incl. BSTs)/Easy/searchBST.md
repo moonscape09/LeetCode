@@ -1,4 +1,4 @@
-<h1>Question: <a href="https://leetcode.com/problems/search-in-a-binary-search-tree/description">Maximum Search BST</a></h1>
+<h1>Question: <a href="https://leetcode.com/problems/search-in-a-binary-search-tree/description">Search BST</a></h1>
 
 ```
 /**
