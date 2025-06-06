@@ -64,3 +64,7 @@ Otherwise we traverse the BST until a node with no children is found. Once this 
 
 
 **Statistics:** Beats 100% of solutions in runtime and 98.21% of solutions in memory usage
+
+![image](https://github.com/user-attachments/assets/9bbbf988-1f7a-471f-b8f4-a6d1918679bc)
+
+
