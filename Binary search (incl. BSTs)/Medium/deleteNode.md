@@ -84,3 +84,5 @@ The functions returns the `root` itself, as the possibly updated BST.
 
 
 **Statistics:** Beats 100% of solutions in runtime and 93.50% of solutions in memory usage
+![image](https://github.com/user-attachments/assets/72d07fa4-6ca0-478a-9780-e18425c29f83)
+
