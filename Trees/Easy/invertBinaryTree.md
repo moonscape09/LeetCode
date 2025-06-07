@@ -51,3 +51,5 @@ Base case is when the root doesn't exist, hence the recursion stops after a leaf
 | <code>root = []</code>  | [] |
 
 **Statistics:** Beats 100% of solutions in runtime and 86.26% of solutions in memory usage
+
+![image](https://github.com/user-attachments/assets/7df6ecb8-e82b-41c4-82b4-9370eaa2504b)
