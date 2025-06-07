@@ -33,7 +33,7 @@ public:
 
 **Time complexity**: O(n) (n = number of nodes in binary tree)
 
-**Space complexity**: O(n) (n = number of nodes in binary tree)
+**Space complexity**: O(h) (h = height of binary tree)
 
 **Time taken**: 5 mins
 
