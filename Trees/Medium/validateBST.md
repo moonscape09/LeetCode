@@ -61,3 +61,6 @@ We return an `&&` statement, so that the `false` state is maintained (when an in
 
 **Statistics:** Beats 100% of solutions in runtime and 47.07% of solutions in memory usage
 
+![image](https://github.com/user-attachments/assets/9752ca20-319c-469c-9d7b-ca54832f3d44)
+
+
