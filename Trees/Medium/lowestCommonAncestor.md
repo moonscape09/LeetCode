@@ -56,3 +56,6 @@ In all other cases, such as one of `p` and `q` nodes' values being greater and t
 
 **Statistics:** Beats 54.95% of solutions in runtime and 99.05% of solutions in memory usage
 
+<img width="708" alt="image" src="https://github.com/user-attachments/assets/79d33abe-8623-43e4-a2ff-5073cba78dc2" />
+
+
