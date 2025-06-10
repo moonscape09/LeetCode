@@ -1,4 +1,4 @@
-<h1>Question: <a href="https://leetcode.com/problems/validate-binary-search-tree/description/">Validate BST</a></h1>
+<h1>Question: <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/">Lowest Common Ancestor</a></h1>
 
 ```
 /**
