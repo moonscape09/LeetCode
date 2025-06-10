@@ -29,7 +29,7 @@ public:
 
 **Data structures/Algorithms used**: Binary search tree
 
-**Time complexity**: O(n) (h = height of tree)
+**Time complexity**: O(n) (n = number of nodes in the tree)
 
 **Space complexity**: O(h) (h = height of tree)
 
