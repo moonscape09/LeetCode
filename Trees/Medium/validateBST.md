@@ -29,7 +29,7 @@ public:
 
 **Data structures/Algorithms used**: Binary search tree, DFS
 
-**Time complggexity**: O(n) (n = number of nodes in tree)
+**Time complexity**: O(n) (n = number of nodes in tree)
 
 **Space complexity**: O(h) (h = height of tree)
 
