@@ -66,6 +66,7 @@ In the original function, `flatten`, we make recursive calls on the right child 
 
 **Statistics:** Beats 100% of solutions in runtime and 99.91% of solutions in memory usage
 
+![image](https://github.com/user-attachments/assets/b93b7c0e-3251-40c0-8d0a-0330d9499730)
 
 
 
