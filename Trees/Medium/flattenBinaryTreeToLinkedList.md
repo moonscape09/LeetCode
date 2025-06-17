@@ -1,4 +1,4 @@
-<h1>Question: <a href="https://leetcode.com/problems/delete-node-in-a-bst/description">Delete Node in a BST</a></h1>
+<h1>Question: <a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/">Flatten Binary Tree to Linked List</a></h1>
 
 ```
 /**
