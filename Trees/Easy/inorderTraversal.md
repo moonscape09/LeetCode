@@ -56,3 +56,6 @@ The updated `values` array is returned in each recursive stack frame. Once the r
 
 **Statistics:** Beats 100% of solutions in runtime and 5.19% of solutions in memory usage
 
+![image](https://github.com/user-attachments/assets/7a249030-a57b-404e-be0c-7e0dc3484de0)
+
+
