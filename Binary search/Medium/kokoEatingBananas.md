@@ -21,7 +21,6 @@ public:
         return left;
     }
 };
-
 ```
 
 **Data structures/Algorithms used**: Binary search
