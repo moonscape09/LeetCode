@@ -56,3 +56,5 @@ Ultimately, we return `left`, as it will represent the minimum valid rate.
 
 
 **Statistics:** Beats 96.49% of solutions in runtime and 96.55% of solutions in memory usage
+
+![image](https://github.com/user-attachments/assets/3a229e80-298b-4dee-8fd4-18da13d04644)
