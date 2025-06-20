@@ -56,5 +56,6 @@ Once this position is found, it is stored in `pivot`. Now a binary search algo i
 | <code>nums = [3,5,1] target = 1</code>  | 2 |
 
 **Statistics:** Beats 100% of solutions in runtime and 33.06% of solutions in memory usage
+![image](https://github.com/user-attachments/assets/89e3e548-2f1e-4190-a264-9c6e8526d95d)
 
 
