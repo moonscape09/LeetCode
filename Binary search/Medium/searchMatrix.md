@@ -54,3 +54,5 @@ Once this row is found, then binary search is done again to look for the `target
 
 **Statistics:** Beats 100% of solutions in runtime and 75.86% of solutions in memory usage
 
+![image](https://github.com/user-attachments/assets/f1478eb6-5588-4fc0-8150-f38a4f2d94f0)
+
