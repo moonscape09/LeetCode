@@ -37,4 +37,5 @@ A binary search algorithm that locates the pivoted index, by looking for a posit
 
 **Statistics:** Beats 100% of solutions in runtime and 78.89% of solutions in memory usage
 
+![image](https://github.com/user-attachments/assets/a1ea30cd-a330-4aa1-acbd-4b8ac1023651)
 
