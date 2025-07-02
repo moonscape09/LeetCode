@@ -50,4 +50,7 @@ After the loop, we return the `maxAvg`.
 
 **Statistics:** Beats 100% of solutions in runtime and 44.38% of solutions in memory usage.
 
+![image](https://github.com/user-attachments/assets/85a31d04-f91f-444a-8c53-1e53c715f0bd)
+
+
 
