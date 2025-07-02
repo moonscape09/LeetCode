@@ -1,4 +1,4 @@
-<h1>Question: <a href="https://leetcode.com/problems/permutation-in-string/description">Permutation in String</a></h1>
+<h1>Question: <a href="https://leetcode.com/problems/maximum-average-subarray-i/description">Maximum Average Subarray I</a></h1>
 
 ```
 class Solution {
