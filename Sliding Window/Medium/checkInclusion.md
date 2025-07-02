@@ -56,4 +56,5 @@ If we reach after the loop, we have found no matching permutations of `s2` again
 
 **Statistics:** Beats 69.71% of solutions in runtime and 24.46% of solutions in memory usage.
 
+![image](https://github.com/user-attachments/assets/d37fcb89-492a-41ab-ae69-b6c3985bf77f)
 
