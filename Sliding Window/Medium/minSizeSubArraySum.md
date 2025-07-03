@@ -47,3 +47,5 @@ After the loop, we check for the case when the sum of the entire array, `nums` i
 
 
 **Statistics:** Beats 100% of solutions in runtime and 96.93% of solutions in memory usage
+<img width="687" alt="image" src="https://github.com/user-attachments/assets/fa75df5c-0c51-4888-a6ca-77ff94a8a51b" />
+
