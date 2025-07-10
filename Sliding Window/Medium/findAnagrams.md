@@ -54,4 +54,7 @@ At the end of the loop, we return our list of `indices`.
 
 **Statistics:** Beats 31.47% of solutions in runtime and 21.33% of solutions in memory usage.
 
+![image](https://github.com/user-attachments/assets/9f38c5a7-07ef-4724-8364-8b6cee988e20)
+
+
 
