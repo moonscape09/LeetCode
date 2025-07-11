@@ -1,4 +1,4 @@
-<h1>Question: <a href="https://leetcode.com/problems/maximum-average-subarray-i/description">Maximum Average Subarray I</a></h1>
+<h1>Question: <a href="https://leetcode.com/problems/maximum-average-subarray-i/description](https://leetcode.com/problems/contains-duplicate-ii/description">Contains Duplicate II</a></h1>
 
 ```
 class Solution {
@@ -44,6 +44,7 @@ Otherwise, if we encounter an element that already exists in `set`, while our wi
 
 **Statistics:** Beats 92.81% of solutions in runtime and 76.84% of solutions in memory usage.
 
+<img width="680" height="455" alt="image" src="https://github.com/user-attachments/assets/974b33a5-5587-43ce-9420-7d0c72ce2357" />
 
 
 
