@@ -1,4 +1,4 @@
-<h1>Question: <a href="https://leetcode.com/problems/maximum-average-subarray-i/description](https://leetcode.com/problems/contains-duplicate-ii/description">Contains Duplicate II</a></h1>
+<h1>Question: <a href="https://leetcode.com/problems/contains-duplicate-ii/description/">Contains Duplicate II</a></h1>
 
 ```
 class Solution {
