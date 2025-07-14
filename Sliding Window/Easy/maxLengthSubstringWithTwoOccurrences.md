@@ -43,6 +43,7 @@ After the loop, we return the `maxLen` state.
 
 **Statistics:** Beats 100% of solutions in runtime and 65.24% of solutions in memory usage.
 
+<img width="714" height="403" alt="image" src="https://github.com/user-attachments/assets/5dee6035-52a0-4bd2-ade1-b3219f508494" />
 
 
 
